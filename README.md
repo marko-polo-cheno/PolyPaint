@@ -1,6 +1,6 @@
 # PolyPaint
 
-ONGOING!
+Dead project :) we'll try again in 3rd year...
 
 Python 3 - Tkinter - TensorFlow
 
